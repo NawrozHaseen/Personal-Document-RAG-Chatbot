@@ -1,0 +1,20 @@
+Artificial Intelligence
+
+Artificial Intelligence is a field of computer science that focuses on
+creating systems capable of performing tasks that normally require
+human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence. It allows
+computers to learn patterns from data without being explicitly
+programmed for every task.
+
+Deep Learning is a subset of Machine Learning that uses neural networks
+with multiple layers.
+
+Natural Language Processing allows computers to understand and process
+human language.
+
+Retrieval Augmented Generation, commonly known as RAG, combines
+information retrieval with generative AI. A RAG system first retrieves
+relevant information from a knowledge base and then provides that
+information to a language model to generate an answer.
